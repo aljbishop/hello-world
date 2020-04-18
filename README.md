@@ -1,2 +1,7 @@
 # hello-world
-Just another repository 
+
+
+Hi there,
+
+Just trying my hand with github.
+Hoping to contribute soon!
